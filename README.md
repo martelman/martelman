@@ -2,7 +2,7 @@
 I'm an ER doc with expertise in backend, AI and mobile App development.
 - Cofounder of [DXA](https://www.dialogue.co/en/blog/en/news/dialogue-acquires-dxa)
 - Previous CMO at [Dialogue](https://www.dialogue.co/)
-- Health and Fitness addict [MTLab](https://julienmartel.ghost.io/ghost/#/site)
+- Health and Fitness addict [MTLab](https://julienmartel.ghost.io/)
 
 #### Stuff I'm doing
 
